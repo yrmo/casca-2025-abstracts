@@ -13,6 +13,7 @@ The public program does not include presentation type, language, or the submitte
 - `abstracts.md` — readable list. Scheduled presentations come first, in program order. Unscheduled submissions follow, by submission number.
 - `abstracts.csv` — the same records as a spreadsheet.
 - `abstracts.json` — the same records as JSON.
+- `analysis.ipynb` — tick plot of decolonize, white supremacy, anti-, colonial, racism, and ethnography across that order. Running it writes `keyword-ticks.png`.
 
 Times are Eastern (`America/Toronto`).
 
