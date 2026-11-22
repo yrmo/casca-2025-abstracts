@@ -13,8 +13,14 @@ The public program does not include presentation type, language, or the submitte
 - `abstracts.md` — readable list. Scheduled presentations come first, in program order. Unscheduled submissions follow, by submission number.
 - `abstracts.csv` — the same records as a spreadsheet.
 - `abstracts.json` — the same records as JSON.
-- `analysis.ipynb` — tick plot of decolonize, white supremacy, anti-, colonial, racism, and ethnography across that order. Running it writes `keyword-ticks.png`.
+- `analysis.ipynb` — tick plot of decolonize, white supremacy, anti-, colonial, racism, systemic, and ethnography across that order. Running it writes `keyword-ticks.png`.
 
 Times are Eastern (`America/Toronto`).
 
 Abstract text belongs to the authors. This repository collects what the public program already publishes.
+
+## Results
+
+![Selected keywords in the CASCA 2025 abstracts](keyword-ticks.png)
+
+Each tick is one abstract, in published order. A tick means the word appears in the title or the abstract. The shaded band is the 65 unscheduled submissions.
